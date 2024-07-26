@@ -1,0 +1,98 @@
+body{
+    background-color:   hsl(47, 88%, 63%);
+    width: 100%;
+   
+}
+
+#blog-review-container{
+    box-shadow: 16px 16px black;
+    min-height: 501px;
+    height: 550px;
+    background-color: white;
+    min-width: 327px;
+    max-width: 384px;
+    border-radius: 15px;
+    position: relative;
+    top: 100px;
+    margin: 0 auto;
+    padding:30px 
+
+
+
+}
+
+#category{
+    background-color:  hsl(47, 88%, 63%);
+    width: 82px;
+    height: 29px;
+    font-size: 16px;
+    text-align: center;
+    border-radius: 5px;
+    padding-top: 5px;
+    position: relative;
+    left: 25px;
+    font-weight: 800;
+    font-family: "Figtree", sans-serif;
+}
+
+   
+   
+
+
+#blog-image{
+    position: relative;
+    left: 25px;
+    width: 336px;
+    height: 200px;
+    border-radius: 12px;
+}
+
+#date-section{
+    font-family: "Figtree", sans-serif;
+    font-weight: 800;
+    position: relative;
+    left: 25px;
+
+
+    
+}
+
+#page-title{
+    font-family: "Figtree";
+    font-weight: 800;
+    position: relative;
+    left: 25px;
+    cursor:pointer;
+    }
+
+#page-description{
+    font-size: 16px;
+    font-family: "Figtree", sans-serif;
+    width: 336px;
+    height: 72px;
+    position: relative;
+    left: 25px;
+
+}
+
+h3{
+    font-family: "Figtree", sans-serif;
+    font-size: 16px;
+    position: relative;
+    left: 75px;
+    bottom: 50px;
+
+
+}
+
+#avatar-image{
+    height: 32px;
+    width: 32px;
+    position: relative;
+    left: 25px;
+}
+
+#page-title:hover{
+    background-color: white;
+    color: hsl(47, 88%, 63%);
+}
